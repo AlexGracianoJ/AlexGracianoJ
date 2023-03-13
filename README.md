@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Alex</h1>
 <h3 align="center">Um apaixonado desenvolvedor frontend do Brasil</h3>
 
-- 🔭 Eu estou trabalhando em **nenhum projeto :(**
+- 🔭 Eu estou trabalhando em **SambaPanel :(**
 
 - 🌱 Eu estou estudando tudo sobre **Frameworks, banco de dados e API'S**
 
