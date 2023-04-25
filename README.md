@@ -7,7 +7,6 @@
 
 - 📫 Entre em contato comigo **alex.sandro.junior.dev@gmail.com**
 
-<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 </p>
 
