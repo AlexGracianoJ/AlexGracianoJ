@@ -1,13 +1,13 @@
 <h1 align="center">Olá, eu sou o Alex</h1>
-<h3 align="center">Um apaixonado desenvolvedor frontend do Brasil</h3>
+<h3 align="center">Um apaixonado desenvolvedor no Brasil</h3>
 
-- 🔭 Eu estou trabalhando em **SambaPanel :)**
+- 🔭 Eu estou trabalhando em **SambaPanel** e **FrameWeb**.
 
 - 🌱 Eu estou estudando tudo sobre **Frameworks, banco de dados e API'S**
 
-- 📫 Entre em contato comigo **alexsandrofrontdev@gmail.com**
+- 📫 Entre em contato comigo **alex.sandro.junior.dev@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 </p>
 
